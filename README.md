@@ -21,78 +21,189 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+# Web Scraper API - NestJS
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A RESTful API built with NestJS that scrapes web pages and extracts structured data including titles, headings, paragraphs, and links. The scraped data can be saved to a local JSON file.
 
-## Project setup
+## 🚀 Features
 
-```bash
-$ npm install
+- **Web Scraping**: Extract structured data from any webpage
+- **Data Extraction**: Captures titles, headings (h1-h6), paragraphs, and links
+- **File Storage**: Automatically saves scraped data to a JSON file
+- **Error Handling**: Robust error handling for invalid URLs and network issues
+- **Clean Architecture**: Built with NestJS modular structure
+
+## 🛠️ Tech Stack
+
+- **Framework**: NestJS
+- **HTTP Client**: Axios
+- **HTML Parser**: Cheerio
+- **Runtime**: Node.js
+- **Language**: TypeScript
+
+## 📋 Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+- NestJS CLI (optional): `npm install -g @nestjs/cli`
+
+## 🔧 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repository-url>
+   cd web-scraper
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run start:dev
+   ```
+
+4. **Verify the application is running**
+   ```
+   Application should be running on http://localhost:3000
+   ```
+
+## 📚 API Documentation
+
+### Endpoint
+
+**POST** `/scraper/scrape`
+
+Scrapes a webpage and saves the extracted data to a local JSON file.
+
+#### Request
+
+- **Method**: POST
+- **URL**: `http://localhost:3000/scraper/scrape`
+- **Content-Type**: `application/json`
+
+#### Request Body
+
+```json
+{
+  "url": "https://example.com"
+}
 ```
 
-## Compile and run the project
+#### Response
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+```json
+{
+  "message": "Data successfully written to scraped-data.json",
+  "filePath": "/path/to/your/project/scraped-data.json"
+}
 ```
 
-## Run tests
+#### Error Responses
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+**400 Bad Request** - Missing or invalid URL
+```json
+{
+  "statusCode": 400,
+  "message": "URL is required in request body"
+}
 ```
 
-## Deployment
-
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
-
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
-
-```bash
-$ npm install -g @nestjs/mau
-$ mau deploy
+**502 Bad Gateway** - Failed to fetch webpage
+```json
+{
+  "statusCode": 502,
+  "message": "Failed to fetch URL https://example.com: Network Error"
+}
 ```
 
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
+## 📁 Output File Structure
 
-## Resources
+The scraped data is saved to `scraped-data.json` in the project root with the following structure:
 
-Check out a few resources that may come in handy when working with NestJS:
+```json
+{
+  "url":"Page URL",
+  "data": {
+    "url": "https://myexample.com",
+    "fetchedAt": "2025-08-11T20:28:09.030Z",
+    "title": "E-commerce\t| Oxylabs Scraping Sandbox",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Video Games to scrape"
+      }
+    ],
+  }
+  "links": [
+    {
+      "href": "https://example.com/link1",
+      "text": "Link Text 1"
+    },
+    {
+      "href": "https://example.com/link2",
+      "text": "Link Text 2"
+    }
+  ]
+}
+```
 
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+## 🧪 Testing
 
-## Support
+### Using Postman
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+1. **Set up the request**:
+   - Method: `POST`
+   - URL: `http://localhost:3000/scraper/scrape`
+   - Headers: `Content-Type: application/json`
+   - Body:
+     ```json
+     {
+       "url": "https://example.com"
+     }
+     ```
 
-## Stay in touch
+### Running Unit Tests
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+```bash
+# Run all tests
+npm test
 
-## License
+# Run tests in watch mode
+npm run test:watch
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+# Run tests with coverage
+npm run test:cov
+```
+
+## 📂 Project Structure
+
+```
+src/
+├── main.ts                 # Application entry point
+├── app.module.ts           # Root module
+└── scraper/
+    ├── scraper.controller.ts  # API endpoint controller
+    ├── scraper.service.ts     # Business logic service
+    ├── scraper.service.spec.ts # Unit tests
+    └── scraper.module.ts      # Scraper module
+```
+
+## 🔍 What Gets Scraped
+
+The scraper extracts the following elements from web pages:
+
+- **Title**: The `<title>` tag content
+- **Headings**: All heading tags (h1, h2, h3, h4, h5, h6)
+- **Paragraphs**: All `<p>` tag content
+- **Links**: All `<a>` tags with href attributes (both URL and link text)
+
+## ⚠️ Limitations
+
+- **Static Content Only**: Works best with server-side rendered HTML
+- **JavaScript-Heavy Sites**: May not capture content loaded dynamically with JavaScript
+- **Rate Limiting**: Some websites may block automated requests
+- **Authentication**: Cannot scrape login-protected content
+- **Anti-Bot Protection**: Sites with Cloudflare or similar protection may block requests
