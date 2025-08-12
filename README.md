@@ -185,6 +185,9 @@ src/
 ├── main.ts                 # Application entry point
 ├── app.module.ts           # Root module
 └── scraper/
+    |──dtos/
+        ├──scraper-url.dto.ts
+        ├──-scraper-data.interface.ts
     ├── scraper.controller.ts  # API endpoint controller
     ├── scraper.service.ts     # Business logic service
     ├── scraper.service.spec.ts # Unit tests
