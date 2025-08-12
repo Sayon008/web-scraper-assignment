@@ -1,0 +1,324 @@
+{
+  "url": "https://sandbox.oxylabs.io/products",
+  "data": {
+    "url": "https://sandbox.oxylabs.io/products",
+    "fetchedAt": "2025-08-11T20:28:09.030Z",
+    "title": "E-commerce\t| Oxylabs Scraping Sandbox",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Video Games to scrape"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "<img alt=\"logo\" srcSet=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FnavLogo.a8764883.png&amp;w=384&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FnavLogo.a8764883.png&amp;w=750&amp;q=75 2x\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FnavLogo.a8764883.png&amp;w=750&amp;q=75\" decoding=\"async\" data-nimg=\"intrinsic\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain\" loading=\"lazy\"/>"
+      },
+      {
+        "href": "/products/category/nintendo",
+        "text": "Nintendo platform"
+      },
+      {
+        "href": "/products/category/xbox-platform",
+        "text": "Xbox platform"
+      },
+      {
+        "href": "/products/category/playstation-platform",
+        "text": "Playstation platform"
+      },
+      {
+        "href": "/products/1",
+        "text": "<img alt=\"The_Legend_of_Zelda:_Ocarina_of_Time\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>.css-7u5e79{margin:0.5rem 0rem;}The Legend of Zelda: Ocarina of Time"
+      },
+      {
+        "href": "",
+        "text": ".css-193c83t{width:100%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.css-193c83t svg{max-height:1.125rem;max-width:1.125rem;margin-right:0.5rem;}Add to Basket"
+      },
+      {
+        "href": "/products/2",
+        "text": "<img alt=\"Super_Mario_Galaxy\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Super Mario Galaxy"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/3",
+        "text": "<img alt=\"Super_Mario_Galaxy_2\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Super Mario Galaxy 2"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/4",
+        "text": "<img alt=\"Metroid_Prime\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Metroid Prime"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/5",
+        "text": "<img alt=\"Super_Mario_Odyssey\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Super Mario Odyssey"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/6",
+        "text": "<img alt=\"Halo:_Combat_Evolved\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Halo: Combat Evolved"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/7",
+        "text": "<img alt=\"The_House_in_Fata_Morgana_-_Dreams_of_the_Revenants_Edition_-\" sizes=\"100vw\" srcSet=\"/assets/adventure.svg 640w, /assets/adventure.svg 750w, /assets/adventure.svg 828w, /assets/adventure.svg 1080w, /assets/adventure.svg 1200w, /assets/adventure.svg 1920w, /assets/adventure.svg 2048w, /assets/adventure.svg 3840w\" src=\"/assets/adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The House in Fata Morgana - Dreams of the Revenants Edition -"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/8",
+        "text": "<img alt=\"NFL_2K1\" sizes=\"100vw\" srcSet=\"/assets/sports.svg 640w, /assets/sports.svg 750w, /assets/sports.svg 828w, /assets/sports.svg 1080w, /assets/sports.svg 1200w, /assets/sports.svg 1920w, /assets/sports.svg 2048w, /assets/sports.svg 3840w\" src=\"/assets/sports.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>NFL 2K1"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/9",
+        "text": "<img alt=\"Uncharted_2:_Among_Thieves\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Uncharted 2: Among Thieves"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/10",
+        "text": "<img alt=\"Tekken_3\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Tekken 3"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/11",
+        "text": "<img alt=\"The_Legend_of_Zelda:_The_Wind_Waker\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Legend of Zelda: The Wind Waker"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/12",
+        "text": "<img alt=\"Gran_Turismo\" sizes=\"100vw\" srcSet=\"/assets/driving.svg 640w, /assets/driving.svg 750w, /assets/driving.svg 828w, /assets/driving.svg 1080w, /assets/driving.svg 1200w, /assets/driving.svg 1920w, /assets/driving.svg 2048w, /assets/driving.svg 3840w\" src=\"/assets/driving.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Gran Turismo"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/13",
+        "text": "<img alt=\"Metal_Gear_Solid_2:_Sons_of_Liberty\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Metal Gear Solid 2: Sons of Liberty"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/14",
+        "text": "<img alt=\"Grand_Theft_Auto_Double_Pack\" sizes=\"100vw\" srcSet=\"/assets/miscellaneous.svg 640w, /assets/miscellaneous.svg 750w, /assets/miscellaneous.svg 828w, /assets/miscellaneous.svg 1080w, /assets/miscellaneous.svg 1200w, /assets/miscellaneous.svg 1920w, /assets/miscellaneous.svg 2048w, /assets/miscellaneous.svg 3840w\" src=\"/assets/miscellaneous.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Grand Theft Auto Double Pack"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/15",
+        "text": "<img alt=\"Baldur&#x27;s_Gate_II:_Shadows_of_Amn\" sizes=\"100vw\" srcSet=\"/assets/role-playing.svg 640w, /assets/role-playing.svg 750w, /assets/role-playing.svg 828w, /assets/role-playing.svg 1080w, /assets/role-playing.svg 1200w, /assets/role-playing.svg 1920w, /assets/role-playing.svg 2048w, /assets/role-playing.svg 3840w\" src=\"/assets/role-playing.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Baldur's Gate II: Shadows of Amn"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/16",
+        "text": "<img alt=\"Tetris_Effect:_Connected\" sizes=\"100vw\" srcSet=\"/assets/puzzle.svg 640w, /assets/puzzle.svg 750w, /assets/puzzle.svg 828w, /assets/puzzle.svg 1080w, /assets/puzzle.svg 1200w, /assets/puzzle.svg 1920w, /assets/puzzle.svg 2048w, /assets/puzzle.svg 3840w\" src=\"/assets/puzzle.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Tetris Effect: Connected"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/17",
+        "text": "<img alt=\"The_Legend_of_Zelda_Collector&#x27;s_Edition\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Legend of Zelda Collector's Edition"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/18",
+        "text": "<img alt=\"Gran_Turismo_3:_A-Spec\" sizes=\"100vw\" srcSet=\"/assets/driving.svg 640w, /assets/driving.svg 750w, /assets/driving.svg 828w, /assets/driving.svg 1080w, /assets/driving.svg 1200w, /assets/driving.svg 1920w, /assets/driving.svg 2048w, /assets/driving.svg 3840w\" src=\"/assets/driving.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Gran Turismo 3: A-Spec"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/19",
+        "text": "<img alt=\"The_Legend_of_Zelda:_A_Link_to_the_Past\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Legend of Zelda: A Link to the Past"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/20",
+        "text": "<img alt=\"The_Legend_of_Zelda:_Majora&#x27;s_Mask\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Legend of Zelda: Majora's Mask"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/21",
+        "text": "<img alt=\"The_Last_of_Us\" sizes=\"100vw\" srcSet=\"/assets/modern.svg 640w, /assets/modern.svg 750w, /assets/modern.svg 828w, /assets/modern.svg 1080w, /assets/modern.svg 1200w, /assets/modern.svg 1920w, /assets/modern.svg 2048w, /assets/modern.svg 3840w\" src=\"/assets/modern.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Last of Us"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/22",
+        "text": "<img alt=\"Persona_5_Royal\" sizes=\"100vw\" srcSet=\"/assets/role-playing.svg 640w, /assets/role-playing.svg 750w, /assets/role-playing.svg 828w, /assets/role-playing.svg 1080w, /assets/role-playing.svg 1200w, /assets/role-playing.svg 1920w, /assets/role-playing.svg 2048w, /assets/role-playing.svg 3840w\" src=\"/assets/role-playing.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Persona 5 Royal"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/23",
+        "text": "<img alt=\"The_Last_of_Us_Remastered\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Last of Us Remastered"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/24",
+        "text": "<img alt=\"The_Legend_of_Zelda:_Ocarina_of_Time_3D\" sizes=\"100vw\" srcSet=\"/assets/miscellaneous.svg 640w, /assets/miscellaneous.svg 750w, /assets/miscellaneous.svg 828w, /assets/miscellaneous.svg 1080w, /assets/miscellaneous.svg 1200w, /assets/miscellaneous.svg 1920w, /assets/miscellaneous.svg 2048w, /assets/miscellaneous.svg 3840w\" src=\"/assets/miscellaneous.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>The Legend of Zelda: Ocarina of Time 3D"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/25",
+        "text": "<img alt=\"Chrono_Cross\" sizes=\"100vw\" srcSet=\"/assets/role-playing.svg 640w, /assets/role-playing.svg 750w, /assets/role-playing.svg 828w, /assets/role-playing.svg 1080w, /assets/role-playing.svg 1200w, /assets/role-playing.svg 1920w, /assets/role-playing.svg 2048w, /assets/role-playing.svg 3840w\" src=\"/assets/role-playing.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Chrono Cross"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/26",
+        "text": "<img alt=\"Gears_of_War\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Gears of War"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/27",
+        "text": "<img alt=\"Sid_Meier&#x27;s_Civilization_II\" sizes=\"100vw\" srcSet=\"/assets/strategy.svg 640w, /assets/strategy.svg 750w, /assets/strategy.svg 828w, /assets/strategy.svg 1080w, /assets/strategy.svg 1200w, /assets/strategy.svg 1920w, /assets/strategy.svg 2048w, /assets/strategy.svg 3840w\" src=\"/assets/strategy.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Sid Meier's Civilization II"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/28",
+        "text": "<img alt=\"Halo_3\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Halo 3"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/29",
+        "text": "<img alt=\"Ninja_Gaiden_Black\" sizes=\"100vw\" srcSet=\"/assets/action-adventure.svg 640w, /assets/action-adventure.svg 750w, /assets/action-adventure.svg 828w, /assets/action-adventure.svg 1080w, /assets/action-adventure.svg 1200w, /assets/action-adventure.svg 1920w, /assets/action-adventure.svg 2048w, /assets/action-adventure.svg 3840w\" src=\"/assets/action-adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Ninja Gaiden Black"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/30",
+        "text": "<img alt=\"Super_Mario_Advance_4:_Super_Mario_Bros._3\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Super Mario Advance 4: Super Mario Bros. 3"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/31",
+        "text": "<img alt=\"Jet_Grind_Radio\" sizes=\"100vw\" srcSet=\"/assets/action.svg 640w, /assets/action.svg 750w, /assets/action.svg 828w, /assets/action.svg 1080w, /assets/action.svg 1200w, /assets/action.svg 1920w, /assets/action.svg 2048w, /assets/action.svg 3840w\" src=\"/assets/action.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Jet Grind Radio"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "/products/32",
+        "text": "<img alt=\"Grim_Fandango\" sizes=\"100vw\" srcSet=\"/assets/adventure.svg 640w, /assets/adventure.svg 750w, /assets/adventure.svg 828w, /assets/adventure.svg 1080w, /assets/adventure.svg 1200w, /assets/adventure.svg 1920w, /assets/adventure.svg 2048w, /assets/adventure.svg 3840w\" src=\"/assets/adventure.svg\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover\" class=\"image\" loading=\"lazy\"/>Grim Fandango"
+      },
+      {
+        "href": "",
+        "text": "Add to Basket"
+      },
+      {
+        "href": "#",
+        "text": "Back"
+      },
+      {
+        "href": "/products?page=1",
+        "text": "1"
+      },
+      {
+        "href": "/products?page=2",
+        "text": "2"
+      },
+      {
+        "href": "/products?page=3",
+        "text": "3"
+      },
+      {
+        "href": "/products?page=4",
+        "text": "4"
+      },
+      {
+        "href": "/products?page=5",
+        "text": "5"
+      },
+      {
+        "href": "/products?page=93",
+        "text": "93"
+      },
+      {
+        "href": "/products?page=94",
+        "text": "94"
+      },
+      {
+        "href": "/products?page=2",
+        "text": "Forward"
+      }
+    ]
+  }
+}
