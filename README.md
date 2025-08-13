@@ -47,6 +47,15 @@ A RESTful API built with NestJS that scrapes web pages and extracts structured d
 - npm or yarn
 - NestJS CLI (optional): `npm install -g @nestjs/cli`
 
+## Environmental Variables
+
+```bash
+API_KEY=set_your_secret_api_key
+PORT=your_port
+SCRAPER_OUTPUT_DIR=your_custome_directory_path
+SCRAPER_TIMEOUT=10000
+```
+
 ## 🔧 Installation
 
 1. **Clone the repository**
@@ -158,6 +167,7 @@ The scraped data is saved to `scraped-data.json` in the project root with the fo
    - Method: `POST`
    - URL: `http://localhost:3000/scraper/scrape`
    - Headers: `Content-Type: application/json`
+   - Headers: `x-api-key : your_secret_api_key`
    - Body:
      ```json
      {

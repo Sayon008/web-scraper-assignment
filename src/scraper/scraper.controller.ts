@@ -1,8 +1,10 @@
-import { Body, Controller, Post } from '@nestjs/common';
+import { Body, Controller, Post, UseGuards } from '@nestjs/common';
 import { ScraperService } from './scraper.service';
 import { ScraperUrlDTO } from './dtos/scraper-url.dto';
+import { ApiKeyGuard } from 'src/middleware/api-key.guard';
 
 @Controller('scraper')
+@UseGuards(ApiKeyGuard)
 export class ScraperController {
 
     constructor(
@@ -15,7 +17,7 @@ export class ScraperController {
         return {
             success:true, 
             message: 'Data is Scraped and saved successfully!', 
-            result
+            ...result,
         };
     }
 }

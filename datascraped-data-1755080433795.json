@@ -2,12 +2,140 @@
   "url": "https://sandbox.oxylabs.io/products",
   "data": {
     "url": "https://sandbox.oxylabs.io/products",
-    "fetchedAt": "2025-08-12T07:17:19.773Z",
+    "fetchedAt": "2025-08-13T10:20:33.786Z",
     "title": "E-commerce\t| Oxylabs Scraping Sandbox",
     "headings": [
       {
         "tag": "h1",
         "text": "Video Games to scrape"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda: Ocarina of Time"
+      },
+      {
+        "tag": "h4",
+        "text": "Super Mario Galaxy"
+      },
+      {
+        "tag": "h4",
+        "text": "Super Mario Galaxy 2"
+      },
+      {
+        "tag": "h4",
+        "text": "Metroid Prime"
+      },
+      {
+        "tag": "h4",
+        "text": "Super Mario Odyssey"
+      },
+      {
+        "tag": "h4",
+        "text": "Halo: Combat Evolved"
+      },
+      {
+        "tag": "h4",
+        "text": "The House in Fata Morgana - Dreams of the Revenants Edition -"
+      },
+      {
+        "tag": "h4",
+        "text": "NFL 2K1"
+      },
+      {
+        "tag": "h4",
+        "text": "Uncharted 2: Among Thieves"
+      },
+      {
+        "tag": "h4",
+        "text": "Tekken 3"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda: The Wind Waker"
+      },
+      {
+        "tag": "h4",
+        "text": "Gran Turismo"
+      },
+      {
+        "tag": "h4",
+        "text": "Metal Gear Solid 2: Sons of Liberty"
+      },
+      {
+        "tag": "h4",
+        "text": "Grand Theft Auto Double Pack"
+      },
+      {
+        "tag": "h4",
+        "text": "Baldur's Gate II: Shadows of Amn"
+      },
+      {
+        "tag": "h4",
+        "text": "Tetris Effect: Connected"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda Collector's Edition"
+      },
+      {
+        "tag": "h4",
+        "text": "Gran Turismo 3: A-Spec"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda: A Link to the Past"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda: Majora's Mask"
+      },
+      {
+        "tag": "h4",
+        "text": "The Last of Us"
+      },
+      {
+        "tag": "h4",
+        "text": "Persona 5 Royal"
+      },
+      {
+        "tag": "h4",
+        "text": "The Last of Us Remastered"
+      },
+      {
+        "tag": "h4",
+        "text": "The Legend of Zelda: Ocarina of Time 3D"
+      },
+      {
+        "tag": "h4",
+        "text": "Chrono Cross"
+      },
+      {
+        "tag": "h4",
+        "text": "Gears of War"
+      },
+      {
+        "tag": "h4",
+        "text": "Sid Meier's Civilization II"
+      },
+      {
+        "tag": "h4",
+        "text": "Halo 3"
+      },
+      {
+        "tag": "h4",
+        "text": "Ninja Gaiden Black"
+      },
+      {
+        "tag": "h4",
+        "text": "Super Mario Advance 4: Super Mario Bros. 3"
+      },
+      {
+        "tag": "h4",
+        "text": "Jet Grind Radio"
+      },
+      {
+        "tag": "h4",
+        "text": "Grim Fandango"
       }
     ],
     "links": [
